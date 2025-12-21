@@ -18,3 +18,5 @@ include:
     shield: dactyl_manuform_5x6_right
   - board: nice_nano
     shield: settings_reset
+  - board: nice_nano # Replace with the Pro Micro-compatible board you're using
+    shield: tester_pro_micro

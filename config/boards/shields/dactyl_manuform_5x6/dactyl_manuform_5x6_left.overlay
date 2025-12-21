@@ -23,7 +23,4 @@
             , <&pro_micro 15 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
             ;
         };
-    chosen {
-        zmk, kscan = &kscan0;
-    };
 };

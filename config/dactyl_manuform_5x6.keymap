@@ -15,11 +15,11 @@
         default_layer {
         bindings = <
                   &kp W     &kp E                                                   &kp I      &kp O
-&kp ESC    &kp Q  &kp S     &kp D     &kp R      &kp T           &kp Y    &kp U     &kp K      &kp L     &kp P     &kp BSPC
-&kp TAB    &kp A  &kp X     &kp C     &kp F      &kp G           &kp H    &kp J     &kp COMMA  &kp DOT   &kp SEMI  &kp SQT
-&kp DEL    &kp Z  &kp TILDE &kp CAPS  &kp V      &kp B           &kp N    &kp M     &kp MINUS  &kp PLUS  &kp FSLH  &kp BSLH
-                            &kp LSHIFT &kp SPACE &mo 1           &tog 1   &kp SPACE &kp ENTER
-                            &kp LCTRL  &kp LALT  &kp LGUI        &kp RGUI &kp DEL   &kp RALT
+&kp ESC    &kp Q  &kp S     &kp D     &kp R       &kp T          &kp Y    &kp U     &kp K      &kp L     &kp P     &kp BSPC
+&kp TAB    &kp A  &kp X     &kp C     &kp F       &kp G          &kp H    &kp J     &kp COMMA  &kp DOT   &kp SEMI  &kp SQT
+&kp DEL    &kp Z  &kp TILDE &kp SPACE &kp V       &kp B          &kp N    &kp M     &kp MINUS  &kp PLUS  &kp FSLH  &kp BSLH
+                            &kp DEL    &kp LSHIFT &mo 1          &tog 1   &kp SPACE &kp ENTER
+                            &kp LCTRL  &kp LALT   &kp LGUI       &kp RGUI &kp DEL   &kp RALT
                                                                                                                                   
                                             
             >;
@@ -29,8 +29,8 @@
             bindings = <
                     &kp F7    &kp F8                                             &kp N8   &kp N9
 &trans    &trans    &kp F4    &kp F5   &kp F9    &kp F10     &trans    &kp N7    &kp N5   &kp N6   &kp LBKT &kp RBKT 
-&trans    &trans    &kp F1    &kp F2   &kp F6    &kp F11     &trans    &kp N4    &kp N2   &kp N3   &kp SQT &kp RBKT
-&trans    &trans    &trans    &kp F2   &kp F3    &kp F12     &trans    &kp N1    &trans   &trans   &kp LT &kp GT
+&trans    &trans    &kp F1    &kp F2   &kp F6    &kp F11     &trans    &kp N4    &kp N2   &kp N3   &kp SQT  &kp RBKT
+&trans    &trans    &trans    &kp F2   &kp F3    &kp F12     &trans    &kp N1    &kp N0   &trans   &trans   &trans
                               &kp N8   &kp SPACE &kp BSPC    &trans    &kp UP    &trans 
                               &kp TAB  &trans    &trans      &kp LEFT  &kp DOWN  &kp RIGHT
 

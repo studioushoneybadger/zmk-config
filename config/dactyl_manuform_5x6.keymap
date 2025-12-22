@@ -17,7 +17,7 @@
                   &kp W     &kp E                                                   &kp I      &kp O
 &kp ESC    &kp Q  &kp S     &kp D     &kp R       &kp T          &kp Y    &kp U     &kp K      &kp L     &kp P     &kp BSPC
 &kp TAB    &kp A  &kp X     &kp C     &kp F       &kp G          &kp H    &kp J     &kp COMMA  &kp DOT   &kp SEMI  &kp SQT
-&kp DEL    &kp Z  &kp TILDE &kp CAPS  &kp V       &kp B          &kp N    &kp M     &kp MINUS  &kp PLUS  &kp FSLH  &kp BSLH
+&kp DEL    &kp Z  &kp TILDE &kp CAPS  &kp V       &kp B          &kp N    &kp M     &kp MINUS  &kp EQUAL  &kp FSLH  &kp BSLH
                             &kp DEL   &kp LSHIFT  &mo 1              &tog 1   &kp SPACE &kp ENTER
                             &kp LCTRL &kp LALT    &kp LGUI       &kp RGUI &kp DEL   &kp RALT
                                                                                                                                   
